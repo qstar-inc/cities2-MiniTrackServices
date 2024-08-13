@@ -4,25 +4,26 @@
 	<!--Name of the mod to display to players-->
 	<DisplayName Value="Mini Track Services" />
 	<!--Short description of the mod-->
-	<ShortDescription Value="Single Tracks which can facitilitates various train depo/station functions." />
+	<ShortDescription Value="Single Tracks which can facilitates various train depo/station functions." />
 	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
 	<!--LongDescription Value="This is a long description" /-->
 	<LongDescription>
 # Mini Track Services
 Welcome to the future (or the past) [depending on when you're reading this].
 
-Gone are the days where you have to construct huge rail yard and cargo stations, specially there's no place for them in a rural area. More important if you want to use "Historical Start" mod or you want to detail your own station around these.
+Gone are the days when you had to construct huge rail yards and cargo stations, especially when there was no place for them in rural areas. This is more important to use "Historical Start" mod or to detail your station around these.
 
-This mod includes 4 single fixed length bi-directional tracks which functions as both passenger and cargo stations and a rail yard. All three has two upgrades each, which includes additional tracks (can be placed as much space you have and does not require road access) and a non-visual extension upgrade for each for comfort, storage and maintenance respectively.
+This mod includes 4 single fixed-length bi-directional tracks which function as both passenger and cargo stations and a rail yard. All three have two upgrades each, which include additional tracks (can be placed in as much space as you have and do not require road access) and a non-visual extension upgrade for comfort, storage and maintenance respectively.
 
-But if you're counting that's just 3, what's the other one? The other one is a hybrid track which acts as all three at once. Trains can spawn from it, can pick up passengers and cargo (on separate trains).
+But if you're counting that's just 3, what's the other one? The other one is a hybrid track which acts as all three at once. Trains can spawn from it and can pick up passengers and cargo (on separate trains).
 
-You can find all the items in a the existing Trains tab in the Transportation menu.
+You can find all the items in the existing Trains tab in the Transportation menu.
 
 # Asset Set Details
 * Total Count: 10
 * Primary: 4
-** UI priority: Train > 500 - 504
+* UI priority: Train > 500 - 504
+* Icons: Redesigned from "Asset Icon Library"
 * Upgrades: 6
 
 # DISCLAIMER
@@ -47,7 +48,7 @@ You can find all the items in a the existing Trains tab in the Transportation me
 	<GameVersion Value="*" />
 	<!--Dependency for the mod, can be set multiple times-->
 	<Dependency Id="75426" />	<!-- I18n EveryWhere -->
-	<Dependency Id="79634" />	<!-- Asset Icon Library -->
+	<!--Dependency Id="79634" -->	<!-- Asset Icon Library -->
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
 	<ChangeLog Value="1.0.0" />
 	<ChangeLog>
