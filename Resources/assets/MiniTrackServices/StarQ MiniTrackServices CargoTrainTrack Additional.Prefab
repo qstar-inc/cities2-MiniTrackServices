@@ -1,0 +1,261 @@
+{
+    "$id": 0,
+    "$type": "0|Game.Prefabs.BuildingPrefab, Game",
+    "name": "StarQ MiniTrackServices CargoTrainTrack Additional",
+    "active": true,
+    "components": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
+        "$rlength": 10,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|Game.Prefabs.CargoTransportStation, Game",
+                "name": "CargoTransportStation",
+                "active": true,
+                "m_TradedResources": {
+                    "$id": 3,
+                    "$type": "3|Game.Economy.ResourceInEditor[], Game",
+                    "$rlength": 30,
+                    "$rcontent": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        15,
+                        16,
+                        17,
+                        18,
+                        19,
+                        20,
+                        21,
+                        23,
+                        24,
+                        25,
+                        26,
+                        27,
+                        28,
+                        29,
+                        30,
+                        31,
+                        32,
+                        33,
+                        34,
+                        14,
+                        13
+                    ]
+                },
+                "transports": 4,
+                "m_CarRefuelTypes": 0,
+                "m_TrainRefuelTypes": 0,
+                "m_WatercraftRefuelTypes": 0,
+                "m_AircraftRefuelTypes": 0,
+                "m_LoadingFactor": 0,
+                "m_TransportInterval": {
+                    "$type": "4|Unity.Mathematics.int2, Unity.Mathematics",
+                    "x": 100,
+                    "y": 200
+                }
+            },
+            {
+                "$id": 4,
+                "$type": "5|Game.Prefabs.EditorAssetCategoryOverride, Game",
+                "name": "EditorAssetCategoryOverride",
+                "active": true,
+                "m_IncludeCategories": {
+                    "$id": 5,
+                    "$type": "6|System.String[], mscorlib",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        "StarQ/Service Buildings/Transportation/Trains"
+                    ]
+                },
+                "m_ExcludeCategories": {
+                    "$id": 6,
+                    "$type": 6,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                }
+            },
+            {
+                "$id": 7,
+                "$type": "7|Game.Prefabs.ObjectSubNets, Game",
+                "name": "ObjectSubNets",
+                "active": true,
+                "m_InvertWhen": 0,
+                "m_SubNets": {
+                    "$id": 8,
+                    "$type": "8|Game.Prefabs.ObjectSubNetInfo[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        {
+                            "$id": 9,
+                            "$type": "9|Game.Prefabs.ObjectSubNetInfo, Game",
+                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
+                            "m_BezierCurve": {
+                                "$type": "10|Colossal.Mathematics.Bezier4x3, Colossal.Mathematics",
+                                "a": {
+                                    "$type": "11|Unity.Mathematics.float3, Unity.Mathematics",
+                                    "x": -116.000076,
+                                    "y": 0,
+                                    "z": -3.99971
+                                },
+                                "b": {
+                                    "$type": 11,
+                                    "x": -41.3333969,
+                                    "y": 6.10351563E-05,
+                                    "z": -3.99942017
+                                },
+                                "c": {
+                                    "$type": 11,
+                                    "x": 41.3333855,
+                                    "y": -0.00677490234,
+                                    "z": -4.00009155
+                                },
+                                "d": {
+                                    "$type": 11,
+                                    "x": 116.000076,
+                                    "y": 0,
+                                    "z": -4.00029
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 4,
+                                "x": 0,
+                                "y": 1
+                            },
+                            "m_ParentMesh": {
+                                "$type": 4,
+                                "x": -1,
+                                "y": -1
+                            },
+                            "m_Upgrades": {
+                                "$id": 10,
+                                "$type": "12|Game.Prefabs.NetPieceRequirements[], Game",
+                                "$rlength": 1,
+                                "$rcontent": [
+                                    26
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 11,
+                "$type": "13|Game.Prefabs.ObjectSubObjects, Game",
+                "name": "ObjectSubObjects",
+                "active": true,
+                "m_SubObjects": {
+                    "$id": 12,
+                    "$type": "14|Game.Prefabs.ObjectSubObjectInfo[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        {
+                            "$id": 13,
+                            "$type": "15|Game.Prefabs.ObjectSubObjectInfo, Game",
+                            "m_Object": $fstrref:"UnityGUID:c51839c34c2ffc04eb50ac4c9ce2241e",
+                            "m_Position": {
+                                "$type": 11,
+                                "x": 0,
+                                "y": 0,
+                                "z": -1.3
+                            },
+                            "m_Rotation": {
+                                "$type": "16|Unity.Mathematics.quaternion, Unity.Mathematics",
+                                "value": {
+                                    "$type": "17|Unity.Mathematics.float4, Unity.Mathematics",
+                                    "x": 0,
+                                    "y": 1,
+                                    "z": 0,
+                                    "w": -4.371139E-08
+                                }
+                            },
+                            "m_ParentMesh": 0,
+                            "m_GroupIndex": 0,
+                            "m_Probability": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 14,
+                "$type": "18|Game.Prefabs.Pollution, Game",
+                "name": "Pollution",
+                "active": true,
+                "m_GroundPollution": 0,
+                "m_AirPollution": 0,
+                "m_NoisePollution": 3000,
+                "m_ScaleWithRenters": true
+            },
+            {
+                "$id": 15,
+                "$type": "19|Game.Prefabs.ServiceConsumption, Game",
+                "name": "ServiceConsumption",
+                "active": true,
+                "m_Upkeep": 2000,
+                "m_ElectricityConsumption": 800,
+                "m_WaterConsumption": 200,
+                "m_GarbageAccumulation": 15,
+                "m_TelecomNeed": 0
+            },
+            {
+                "$id": 16,
+                "$type": "20|Game.Prefabs.ServiceUpgrade, Game",
+                "name": "ServiceUpgrade",
+                "active": true,
+                "m_Buildings": {
+                    "$id": 17,
+                    "$type": "21|Game.Prefabs.BuildingPrefab[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        $fstrref:"CID:325f1c73ecb4f29db9443b6d2ab5dc4b"
+                    ]
+                },
+                "m_UpgradeCost": 5000,
+                "m_XPReward": 10,
+                "m_MaxPlacementOffset": -1,
+                "m_MaxPlacementDistance": 100
+            },
+            {
+                "$id": 18,
+                "$type": "22|Game.Prefabs.StorageLimit, Game",
+                "name": "StorageLimit",
+                "active": true,
+                "storageLimit": 12000000
+            },
+            {
+                "$id": 19,
+                "$type": "23|Game.Prefabs.UIObject, Game",
+                "name": "UIObject",
+                "active": true,
+                "m_Group": null,
+                "m_Priority": 1,
+                "m_Icon": "coui://starq-minitrackservices/AdditionalTracks.svg",
+                "m_LargeIcon": "",
+                "m_IsDebugObject": false
+            },
+            {
+                "$id": 20,
+                "$type": "24|Game.Prefabs.Workplace, Game",
+                "name": "Workplace",
+                "active": true,
+                "m_Workplaces": 6,
+                "m_Complexity": 1,
+                "m_EveningShiftProbability": 0,
+                "m_NightShiftProbability": 0
+            }
+        ]
+    },
+    "m_Meshes": null,
+    "m_Circular": false,
+    "m_AccessType": 0,
+    "m_LotWidth": 26,
+    "m_LotDepth": 2
+}

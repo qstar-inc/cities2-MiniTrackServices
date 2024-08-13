@@ -1,0 +1,22 @@
+{
+  "Assets.NAME[StarQ MiniTrackServices HybridTrack]": "Hybrid Track",
+  "Assets.DESCRIPTION[StarQ MiniTrackServices HybridTrack]": "Single bi-directional track that can work as both passenger and cargo station as well as a train depo for two trains. \r\nEmployees 10 workers, provide 6,000 tonnes of storage and two trucks for delivery.",
+  "Assets.NAME[StarQ MiniTrackServices TrainDepoTrack]": "Train Depo Track",
+  "Assets.DESCRIPTION[StarQ MiniTrackServices TrainDepoTrack]": "Single bi-directional track that acts as a rail yard spawning 2 trains, employing 5 workers. \r\nCan be upgraded with additional tracks and maintenance upgrade.",
+  "Assets.UPGRADE_NAME[StarQ MiniTrackServices TrainDepoTrack Additional]": "Additional Tracks",
+  "Assets.UPGRADE_DESCRIPTION[StarQ MiniTrackServices TrainDepoTrack Additional]": "Additional tracks for more trains. Same expense as placing a new one, but does not require separate road access.",
+  "Assets.UPGRADE_NAME[StarQ MiniTrackServices TrainDepoTrack Maintenance]": "Maintenance Upgrade",
+  "Assets.UPGRADE_DESCRIPTION[StarQ MiniTrackServices TrainDepoTrack Maintenance]": "A large maintenance upgrade with no visual change, halves the maintenance duration by employing 15 workers.",
+  "Assets.NAME[StarQ MiniTrackServices PassengerTrainTrack]": "Passenger Stop Track",
+  "Assets.DESCRIPTION[StarQ MiniTrackServices PassengerTrainTrack]": "Single bi-directional track that facilates passenger train with one stop, employing 3 workers. \r\nCan be upgraded with additional tracks and comfort upgrade.",
+  "Assets.UPGRADE_NAME[StarQ MiniTrackServices PassengerTrainTrack Additional]": "Additional Tracks",
+  "Assets.UPGRADE_DESCRIPTION[StarQ MiniTrackServices PassengerTrainTrack Additional]": "Additional tracks for more passenger train stops. Same expense as placing a new one, but does not require separate road access.",
+  "Assets.UPGRADE_NAME[StarQ MiniTrackServices PassengerTrainTrack Comfort]": "Comfort Upgrade",
+  "Assets.UPGRADE_DESCRIPTION[StarQ MiniTrackServices PassengerTrainTrack Comfort]": "A large comfort upgrade with no visual change, provides 60 comfort employing 7 workers but does require Telecommunication access.",
+  "Assets.NAME[StarQ MiniTrackServices CargoTrainTrack]": "Cargo Stop Track",
+  "Assets.DESCRIPTION[StarQ MiniTrackServices CargoTrainTrack]": "Single bi-directional track that facilates cargo transfer vehicles with one train stop, 12,000 tonnes of storage space and 4 trucks for delivery, employing 6 workers. \r\nCan be upgraded with additional tracks and additional storage.",
+  "Assets.UPGRADE_NAME[StarQ MiniTrackServices CargoTrainTrack Additional]": "Additional Tracks",
+  "Assets.UPGRADE_DESCRIPTION[StarQ MiniTrackServices CargoTrainTrack Additional]": "Additional tracks for more cargo train stops. Same expense as placing a new one, but does not require separate road access.",
+  "Assets.UPGRADE_NAME[StarQ MiniTrackServices CargoTrainTrack Storage]": "Storage Upgrade",
+  "Assets.UPGRADE_DESCRIPTION[StarQ MiniTrackServices CargoTrainTrack Storage]": "A large storage upgrade with no visual change, provides 76,000 tonnes of storage space, 16 trucks and employing 30 workers."
+}
