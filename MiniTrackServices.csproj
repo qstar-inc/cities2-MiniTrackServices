@@ -76,11 +76,6 @@
 		<None Include="$(ModTargetsFile)" Link="Properties\Mod.targets" />
 	</ItemGroup>
 
-	<ItemGroup>
-	  <Folder Include="Resources\assets\" />
-	  <Folder Include="Resources\thumbs\" />
-	</ItemGroup>
-
 	<Target Name="GetCustomAssetsFiles" AfterTargets="DeployWIP">
 		<ItemGroup>
 			<AdditionalFilesToDeploy Include="Resources\**\*.*" />

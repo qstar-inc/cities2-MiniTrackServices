@@ -10,7 +10,7 @@ namespace MiniTrackServices
     public class Mod : IMod
     {
         public static string Name = "Mini Track Services";
-        public static string Version = "1.0.0";
+        public static string Version = "1.0.1";
         public static string Author = "StarQ";
         //public static ILog log = LogManager.GetLogger($"{nameof(MiniTrackServices)}").SetShowsErrorsInUI(false);
 
