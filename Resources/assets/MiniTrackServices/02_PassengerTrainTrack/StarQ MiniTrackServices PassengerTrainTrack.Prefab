@@ -916,8 +916,7 @@
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:1239dee54354f354dbc47d2e5d5ead47",
                 "m_Priority": 502,
-                "m_Icon": "coui://starq-minitrackservices/PassengerTrainTrack.svg",
-                "m_LargeIcon": "",
+                "m_Icon": "assetdb://Global/8aaa83ef4ddc02bafa24927d1666abc1",
                 "m_IsDebugObject": false
             },
             {

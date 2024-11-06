@@ -100,8 +100,7 @@
                 "active": true,
                 "m_Group": null,
                 "m_Priority": 4,
-                "m_Icon": "coui://starq-minitrackservices/ComfortUpgrade.svg",
-                "m_LargeIcon": "",
+                "m_Icon": "assetdb://Global/30cac75abf6af1b52c0f2f1e83689be1",
                 "m_IsDebugObject": false
             },
             {

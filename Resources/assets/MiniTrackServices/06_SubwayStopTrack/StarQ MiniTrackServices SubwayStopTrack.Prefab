@@ -228,8 +228,7 @@
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:32b5e550d4a9af34facf35e8b1b14206",
                 "m_Priority": 501,
-                "m_Icon": "coui://starq-minitrackservices/SubwayStopTrack.svg",
-                "m_LargeIcon": "",
+                "m_Icon": "assetdb://Global/2f3bdee92570b9058a142dc72ba3947b",
                 "m_IsDebugObject": false
             },
             {

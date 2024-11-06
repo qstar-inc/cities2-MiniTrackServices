@@ -101,8 +101,7 @@
                 "active": true,
                 "m_Group": null,
                 "m_Priority": 2,
-                "m_Icon": "coui://starq-minitrackservices/MaintenanceUpgrade.svg",
-                "m_LargeIcon": "",
+                "m_Icon": "assetdb://Global/a706f855d460458de81872761c7beb53",
                 "m_IsDebugObject": false
             },
             {

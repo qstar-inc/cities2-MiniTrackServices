@@ -251,8 +251,7 @@
                 "active": true,
                 "m_Group": null,
                 "m_Priority": 1,
-                "m_Icon": "coui://starq-minitrackservices/AdditionalSingleTracks.svg",
-                "m_LargeIcon": "",
+                "m_Icon": "assetdb://Global/fd308aadf2f1e4947d047495860209da",
                 "m_IsDebugObject": false
             },
             {

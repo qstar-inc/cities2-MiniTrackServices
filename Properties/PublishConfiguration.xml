@@ -1,4 +1,4 @@
-﻿<Publish>
+﻿	<Publish>
 	<!--Id must be set in order to update existed mod. it is not required for publishing mod for the first time-->
 	<ModId Value="87564" />
 	<!--Name of the mod to display to players-->
@@ -26,8 +26,7 @@ You can find all the items in the existing Trains tab in the Transportation menu
 * Icons: Redesigned from "Asset Icon Library"
 
 # DISCLAIMER
-* Safe to remove. This mod will not break your save if removed. However the assets will no longer work.
-* This mod may require ***Asset Packs Manager*** which is highly experimental. This mod shouldn't break the save game. But subscribing to assets that require this without the dependency will pop up errors. Worst case you'll get error popups on game load and/or grey boxes in save. But either way, YOU ARE RESPONSIBLE for any damage. Contact me on Discord and I'll try to help you recover anyway.
+* Safe to remove. This mod will not break your save if removed. However the assets will no longer work and appear as gray boxes
 	</LongDescription>
 	<!--Thumbnail-->
 	<Thumbnail Value="Properties/Thumbnail.png" />
@@ -42,22 +41,17 @@ You can find all the items in the existing Trains tab in the Transportation menu
 	<!--Link to the forum post where the mod can be discussed-->
 	<ForumLink Value="" />
 	<!--Version of the mod-->
-	<ModVersion Value="2.0.0" />
+	<ModVersion Value="2.1.0" />
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="*" />
 	<!--Dependency for the mod, can be set multiple times-->
-	<Dependency Id="75426" />	<!-- I18n EveryWhere -->
+	<!--Dependency Id="75426" -->	<!-- I18n EveryWhere -->
 	<!--Dependency Id="79634" -->	<!-- Asset Icon Library -->
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
-	<ChangeLog Value="2.0.0" />
+	<ChangeLog Value="2.1.0" />
 	<ChangeLog>
-## 2.0.0
-* Added Tram Depo track
-* Added Tram Stop track
-* Added Subway Depo track
-* Added Subway Stop track
-* Added Double tracks
-* Added Asset Pack filter
+## 2.1.0
+* Removing executable DLL asset (now uses vanilla UI and localization system).
 	</ChangeLog>
 	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon, buymeacoffee, kofi, crowdin, gitlab-->
 	<ExternalLink Type="github" Url="https://github.com/qstar-inc/cities2-MiniTrackServices" />

@@ -1,0 +1,19 @@
+# Mini Track Services
+Welcome to the future (or the past) [depending on when you're reading this].
+
+Gone are the days when you had to construct huge rail yards and cargo stations, especially when there was no place for them in rural areas. This is more important to use "Historical Start" mod or to detail your station around these.
+
+This mod includes modular train/tram/subway tracks which works as depo or stations.
+
+You can find all the items in the existing Trains tab in the Transportation menu.
+
+# Asset Set Details
+* Total Count: 33 (8 Buildings, 23 Building Upgrades, 1 Asset Pack, 1 Marker Object)
+* UI priority : Pack = 1000
+* UI priority : Train = 500 - 504
+* UI priority : Tram = 500 - 501
+* UI priority : Subway = 500 - 501
+* Icons: Redesigned from "Asset Icon Library"
+
+# DISCLAIMER
+* Safe to remove. This mod will not break your save if removed. However the assets will no longer work and appear as gray boxes

@@ -234,8 +234,7 @@
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:b5fa8b1864a369c40be0434310525a12",
                 "m_Priority": 501,
-                "m_Icon": "coui://starq-minitrackservices/TramStopTrack.svg",
-                "m_LargeIcon": "",
+                "m_Icon": "assetdb://Global/1ea2205f00c7ddfe8b7dbae04236beb5",
                 "m_IsDebugObject": false
             },
             {

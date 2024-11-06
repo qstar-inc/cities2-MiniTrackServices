@@ -36,8 +36,7 @@
                 "active": true,
                 "m_Group": null,
                 "m_Priority": 1001,
-                "m_Icon": "coui://starq-minitrackservices/MiniTrackServices Pack.svg",
-                "m_LargeIcon": null,
+                "m_Icon": "assetdb://Global/5453016a862a2fcbbcef5ce371b56c3b",
                 "m_IsDebugObject": false
             }
         ]

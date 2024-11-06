@@ -150,8 +150,7 @@
                 "active": true,
                 "m_Group": null,
                 "m_Priority": 3,
-                "m_Icon": "coui://starq-minitrackservices/StorageUpgrade.svg",
-                "m_LargeIcon": "",
+                "m_Icon": "assetdb://Global/6db4dc6c228e86ca98ab4eac334acaf0",
                 "m_IsDebugObject": false
             },
             {

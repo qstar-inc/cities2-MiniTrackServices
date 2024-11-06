@@ -948,8 +948,7 @@
                 "active": true,
                 "m_Group": null,
                 "m_Priority": 1,
-                "m_Icon": "coui://starq-minitrackservices/DoubleTrackUpgrade.svg",
-                "m_LargeIcon": "",
+                "m_Icon": "assetdb://Global/90c9ad840f0e4a3d61feb24cfb41258d",
                 "m_IsDebugObject": false
             },
             {

@@ -205,8 +205,7 @@
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:32b5e550d4a9af34facf35e8b1b14206",
                 "m_Priority": 500,
-                "m_Icon": "coui://starq-minitrackservices/SubwayDepoTrack.svg",
-                "m_LargeIcon": "",
+                "m_Icon": "assetdb://Global/28e44ea2c4c187e0b82140fc653414dd",
                 "m_IsDebugObject": false
             },
             {
